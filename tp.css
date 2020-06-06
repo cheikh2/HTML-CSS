@@ -75,6 +75,7 @@ button {
 .bloc1{
     margin-left: 20%;
     color: white;
+    margin-top: 100px;
 }
 
 .bloc1 p{
@@ -106,7 +107,7 @@ button {
 
 .bloc2{
     margin-left: 43%;
-    margin-top: -137px;
+    margin-top: -180px;
     color: white;
 }
 
@@ -117,11 +118,28 @@ button {
 
 .bloc3{
     margin-left: 68%;
-    margin-top: -154px;
+    margin-top: -169px;
     color: white;
 }
 
 .bloc3 img{
     margin-left: 84px;
     width:38px;
+}
+.vertical-line {	
+	border:1px solid #999;
+    height:120px;
+    display:inline-block;
+    margin: 0 38%;
+    margin-top: -140px;
+    margin-bottom: 49px;
+}
+
+.vertical-line1 {	
+	border:1px solid #999;
+    height:120px;
+    display:inline-block;
+    margin: 0 33%;
+    margin-top: -950px;
+    margin-bottom: 36px;
 }
